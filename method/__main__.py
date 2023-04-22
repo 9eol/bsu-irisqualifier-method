@@ -1,4 +1,4 @@
 def __main__():
-    print('Hello_World')
+    print('Hello, method!')
 
 __main__()
